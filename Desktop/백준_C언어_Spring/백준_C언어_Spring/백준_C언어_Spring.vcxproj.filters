@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="입출력 11번 꼬마 정민_11382.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="조건문 7번 주사위세개 2480.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복문 코딩은 체육과목입니다 25314.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열_공 바꾸기 10813.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_1_5086.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_2_2501.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_3_9506.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_4_1978.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_5_2581.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수배수소수단계_6_11653.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_1_27323.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_2_1085.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_3_3009.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_4_15894.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_5_9063.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_6_10101.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_7_5073.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기하_8_14215.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열_2_2743.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열_8_1152.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열_9_2908.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열_11_11718.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체1_p.12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원배열_9_10811.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[다시]기하_7_5073.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

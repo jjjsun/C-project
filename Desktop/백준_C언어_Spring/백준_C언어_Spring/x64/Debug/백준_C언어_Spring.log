@@ -1,0 +1,35 @@
+﻿  1차원 배열_공 바꾸기 10813.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\1차원 배열_공 바꾸기 10813.c(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\1차원 배열_공 바꾸기 10813.c(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  기하_1_27323.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_1_27323.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  기하_2_1085.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_2_1085.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  기하_3_3009.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(6,10): warning C4101: 'cy' :참조되지 않은 지역 변수입니다.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(3,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(3,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\기하_3_3009.c(6,6): warning C4101: 'cx' :참조되지 않은 지역 변수입니다.
+  반복문 코딩은 체육과목입니다 25314.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\반복문 코딩은 체육과목입니다 25314.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_1_5086.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_1_5086.c(5,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_2_2501.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_2_2501.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_3_9506.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_3_9506.c(9,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_4_1978.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_4_1978.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_4_1978.c(7,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_5_2581.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_5_2581.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  약수배수소수단계_6_11653.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\약수배수소수단계_6_11653.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  입출력 11번 꼬마 정민_11382.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\입출력 11번 꼬마 정민_11382.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  조건문 7번 주사위세개 2480.c
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\조건문 7번 주사위세개 2480.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JAESEON\Desktop\백준_C언어_Spring\백준_C언어_Spring\조건문 7번 주사위세개 2480.c(4,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
